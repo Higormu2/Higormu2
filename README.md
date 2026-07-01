@@ -65,14 +65,6 @@ Acredito que minha experiência em qualidade de software me permite desenvolver 
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Higormu2&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats" />
-</p>
----
-
 ## 📫 Contato
 
 - LinkedIn:(https://www.linkedin.com/in/higordamascenostella/)
