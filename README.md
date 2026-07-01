@@ -79,8 +79,8 @@ Acredito que minha experiência em qualidade de software me permite desenvolver 
 
 ## 📫 Contato
 
-- LinkedIn: SEU LINK
-- Email: SEU EMAIL
+- LinkedIn:(https://www.linkedin.com/in/higordamascenostella/)
+- Email: higordamascenostella@yahoo.com.br (Sim, é um email de velho)
 
 ---
 
