@@ -68,9 +68,7 @@ Acredito que minha experiência em qualidade de software me permite desenvolver 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higormu2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higormu2&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Higormu2&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
