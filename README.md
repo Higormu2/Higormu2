@@ -75,10 +75,5 @@ Acredito que minha experiência em qualidade de software me permite desenvolver 
 > "Qualidade não é apenas encontrar defeitos. É construir software melhor desde o início."
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
-    alt="GitHub Jet Heatmap"
-    width="85%"
-  />
+  <img src="https://raw.githubusercontent.com/ThaisSantanaa/ThaisSantanaa/output/github-contribution-grid-snake-dark.svg">
 </p>
-</a>
